@@ -1,19 +1,46 @@
-Easy App is a simple and user-friendly application designed to make everyday tasks easier and faster. The app focuses on providing a clean interface, smooth navigation, and essential features that help users complete actions with minimal effort.
+Description:
+A backend application built with Node.js and Express.js for managing an online store. The app demonstrates secure authentication, product and order management, and database integration using MySQL. Ideal for clients looking for a robust e-commerce backend solution.
 
-⭐ Key Features
+Features:
 
-Easy and intuitive user interface
+User Authentication: Register and login with JWT for secure access
 
-Fast performance
+Product Management: Add, update, delete, and view products
 
-Simple navigation
+Order Management: Create, update, and view customer orders
 
-Useful tools for daily tasks
+Validation & Error Handling: Ensures data integrity and security
 
-Lightweight and responsive design
+RESTful API Endpoints: Ready to connect with any frontend (React, Angular, Vue)
 
-🎯 Purpose
+Tech Stack:
 
-The goal of Easy App is to help users complete their tasks quickly and comfortably without complicated steps. It is built for anyone who wants a smooth and straightforward experience.
+Backend: Node.js, Express.js
 
-If you want a custom description for your actual Easy-App project (React, Node.js, etc.) — just tell me the project type and features, and I’ll write a perfect one.
+Database: MySQL
+
+Authentication: JWT
+
+Testing: Postman
+
+How to Run / Demo:
+
+Clone the repository: git clone <repo-link>
+
+Install dependencies: npm install
+
+Set up .env file with MySQL connection and JWT secret
+
+Run the server: npm start
+
+Test endpoints via Postman
+
+Why this project stands out:
+
+Demonstrates backend development skills with relational databases
+
+Secure authentication system implemented
+
+Ready for integration with frontend applications
+
+Ideal for clients needing e-commerce backend solutions
